@@ -19,4 +19,4 @@ I am a programming student at SENAI - Osasco
 
 ### Certifications:
 
-- CertiProf Scrum foundation professional certification SFPC
+- CertiProf Scrum Foundation Professional Certification SFPC
