@@ -5,7 +5,7 @@
 
 ## Hi! i'm Gusthavo Aguiar 👋
 
-### :framed_picture: About Me :
+About Me :
 
 I am a programming student at SENAI - Osasco 
 
@@ -15,7 +15,7 @@ I am a programming student at SENAI - Osasco
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusthavoaguiar&layout=compact&theme=nightowl&border=3A218B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusthavoaguiar&layout=compact&theme=dark&border=3A218B)
 
 ### Certifications:
 
