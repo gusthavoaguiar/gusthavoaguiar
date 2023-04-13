@@ -14,6 +14,14 @@ I am a programming student at SENAI - Osasco
 
 🔭 I'm currently learning HTML, CSS and Java.
 
+## Ferramentas e Tecnologias
+
+
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+          
+          
+
 ---
 
 <div>
