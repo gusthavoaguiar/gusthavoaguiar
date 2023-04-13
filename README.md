@@ -13,15 +13,7 @@ I am a programming student at SENAI - Osasco
 🌱 My name is _Gusthavo Aguiar_. I currently live in São Paulo - Brazil.
 
 🔭 I'm currently learning HTML, CSS and Java.
-
-## Ferramentas e Tecnologias
-
-
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
           
-          
-
 ---
 
 <div>
