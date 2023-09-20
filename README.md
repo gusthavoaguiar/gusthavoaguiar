@@ -14,14 +14,16 @@ My name is _Gusthavo Aguiar_. I currently live in São Paulo - Brazil.
 
 I am a programming student at SENAI - Osasco 
 
-I'm currently learning HTML, CSS, JavaScript and Java.
+I'm currently learning HTML, CSS, JavaScript, TypeScript, Java and Angular.
 </div>
 
 <div align="center">
   <img align="center" height="40" alt="guh-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="40" alt="guh-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="40" alt="guh-JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="40" alt="guh-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
           
 ---
