@@ -14,7 +14,7 @@ My name is _Gusthavo Aguiar_. I currently live in São Paulo - Brazil.
 
 I am a programming student at SENAI - Osasco 
 
-I'm currently learning HTML, CSS, JavaScript, TypeScript, Java and Angular.
+I'm currently learning HTML, CSS, JavaScript, TypeScript, Java, Dart and Flutter.
 </div>
 
 <div align="center">
@@ -23,7 +23,8 @@ I'm currently learning HTML, CSS, JavaScript, TypeScript, Java and Angular.
   <img align="center" height="40" alt="guh-JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="40" alt="guh-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" height="40" alt="guh-DART" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />        
+  <img align="center" height="40" alt="guh-DART" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img align="center" height="40" alt="guh-FLUTTER" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
           
 ---
